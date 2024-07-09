@@ -1,0 +1,1799 @@
+{
+  "states": {
+    "availableFuel": 20502
+  },
+  "packings": [
+    {
+      "packingWeight": "4.00",
+      "grossWeight": "4.50",
+      "netWeight": "4.00",
+      "pieces": [
+        18,
+        20,
+        21,
+        24,
+        26,
+        28,
+        52
+      ],
+      "id": "1"
+    },
+    {
+      "packingWeight": "5.00",
+      "grossWeight": "5.00",
+      "netWeight": "4.50",
+      "pieces": [
+        20,
+        24,
+        28,
+        30,
+        32,
+        33,
+        36,
+        40,
+        50
+      ],
+      "id": "2"
+    },
+    {
+      "packingWeight": "7.00",
+      "grossWeight": "7.30",
+      "netWeight": "6.80",
+      "pieces": [
+        24,
+        28,
+        30,
+        32,
+        36,
+        40,
+        42,
+        45
+      ],
+      "id": "3"
+    },
+    {
+      "packingWeight": "10.00",
+      "grossWeight": "10.80",
+      "netWeight": "10.00",
+      "pieces": [
+        36,
+        40,
+        42,
+        48,
+        54,
+        60,
+        66,
+        72,
+        80,
+        90
+      ],
+      "id": "4"
+    }
+  ],
+  "ports": [
+    {
+      "name": "Cebu - Philippines",
+      "id": "1"
+    },
+    {
+      "name": "Davao - Philippines",
+      "id": "2"
+    },
+    {
+      "name": "Sohar - Oman",
+      "id": "3"
+    },
+    {
+      "name": "Klang - Malaysia",
+      "id": "4"
+    },
+    {
+      "name": "Odessa - Ukraine",
+      "id": "5"
+    }
+  ],
+  "positions": [
+    {
+      "name": "Front",
+      "id": "1"
+    },
+    {
+      "name": "Middle",
+      "id": "2"
+    },
+    {
+      "name": "Wall",
+      "id": "3"
+    }
+  ],
+  "stores": [
+    {
+      "name": "A-R-E",
+      "id": "1"
+    },
+    {
+      "name": "M-C-S",
+      "id": "2"
+    },
+    {
+      "name": "X-Y-Z",
+      "id": "3"
+    }
+  ],
+  "fuelingTypes": [
+    {
+      "name": "transporter",
+      "id": "1"
+    },
+    {
+      "name": "consumer",
+      "id": "2"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Kamran Akmal",
+      "mobile": "03120242231",
+      "id": "1"
+    },
+    {
+      "name": "Saim Butt",
+      "mobile": "03101305975",
+      "id": "2"
+    },
+    {
+      "name": "Umar Baloch",
+      "mobile": "03095145931",
+      "id": "3"
+    },
+    {
+      "name": "Zohaib Irshad",
+      "mobile": "03051264823",
+      "id": "4"
+    },
+    {
+      "name": "Azhar Mehmood",
+      "mobile": "03015939532",
+      "id": "5"
+    },
+    {
+      "name": "Abdul Rafey",
+      "mobile": "03016323567",
+      "id": "6"
+    },
+    {
+      "name": "Aniq Mirza",
+      "mobile": "03122494922",
+      "id": "7"
+    },
+    {
+      "name": "Tahir Sheikh",
+      "mobile": "03011240102",
+      "id": "8"
+    },
+    {
+      "name": "Khalid Mehmood",
+      "mobile": "03312994010",
+      "id": "9"
+    },
+    {
+      "name": "Raza Sajid",
+      "mobile": "03001294912",
+      "id": "10"
+    },
+    {
+      "name": "Zaeem Raza",
+      "mobile": "030041929491",
+      "id": "11"
+    }
+  ],
+  "orchardsList": [
+    {
+      "supplierCode": "9643",
+      "orchardName": "Malik Orchard",
+      "orchardNameUrdu": "ملک باغ",
+      "orchardAge": "53",
+      "orchardCode": "512",
+      "orchardAddress": "Chak #14 NB, Sargodha",
+      "orchardAddressUrdu": "چک نمبر 14 شمالی، سرگودھا",
+      "id": "1"
+    },
+    {
+      "supplierCode": "1592",
+      "orchardName": "Hameed Orchard",
+      "orchardNameUrdu": "حمید باغ",
+      "orchardAge": "23",
+      "orchardCode": "342",
+      "orchardAddress": "Chak 21 Sargodha",
+      "orchardAddressUrdu": "چک 21 سرگودھا",
+      "id": "2"
+    },
+    {
+      "supplierCode": "6241",
+      "orchardName": "Sheikhs Orchard",
+      "orchardNameUrdu": "شیخوں کا باغ",
+      "orchardAge": "48",
+      "orchardCode": "552",
+      "orchardAddress": "Chak 47 Sargodha",
+      "orchardAddressUrdu": "چک 47 سرگودھا",
+      "id": "3"
+    },
+    {
+      "supplierCode": "5203",
+      "orchardName": "Alvi Orchard",
+      "orchardNameUrdu": "علوی باغ",
+      "orchardAge": "23",
+      "orchardCode": "115",
+      "orchardAddress": "Chak #48 Sargodha",
+      "orchardAddressUrdu": "چک نمبر 48 سرگودھا",
+      "id": "4"
+    },
+    {
+      "supplierCode": "6241",
+      "orchardName": "Umair Orchard",
+      "orchardNameUrdu": "عمیرباغ",
+      "orchardAge": "31",
+      "orchardCode": "124",
+      "orchardAddress": "Chak 31, Sargodha",
+      "orchardAddressUrdu": "چک 31، سرگودھا",
+      "id": "5"
+    },
+    {
+      "supplierCode": "6924",
+      "orchardName": "Jatt Orchard",
+      "orchardNameUrdu": "جٹ باغ",
+      "orchardAge": "49",
+      "orchardCode": "1040",
+      "orchardAddress": "Chak 91NB, 85 Jhal, Sargodha",
+      "orchardAddressUrdu": "چک ۹۱ شمالی، ۸۵ جھال، سرگودھا",
+      "id": "6"
+    },
+    {
+      "supplierCode": "6241",
+      "orchardName": "Sheikhs Orchard",
+      "orchardNameUrdu": "شیخوں کا باغ",
+      "orchardAge": "48",
+      "orchardCode": "552",
+      "orchardAddress": "Chak 47 Sargodha",
+      "orchardAddressUrdu": "چک 47 سرگودھا",
+      "id": "7"
+    },
+    {
+      "supplierCode": "6924",
+      "orchardName": "Jatt Orchard",
+      "orchardNameUrdu": "جٹ باغ",
+      "orchardAge": "49",
+      "orchardCode": "1040",
+      "orchardAddress": "Chak 91NB, 85 Jhal, Sargodha",
+      "orchardAddressUrdu": "چک ۹۱ شمالی، ۸۵ جھال، سرگودھا",
+      "id": "8"
+    }
+  ],
+  "supplierList": [
+    {
+      "accountHead": "205012",
+      "accountCode": "2329",
+      "name": "Umar Farooq",
+      "nameUr": "عمر فاروق",
+      "cnic": "38403-0231502-1",
+      "email": "umarfarooq@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03000231502",
+      "address": "House #4, Street #5, Gulshan Town Sargodha",
+      "addressUr": "مکان نمبر 4، گلی نمبر 5، گلشن ٹاؤن سرگودھا",
+      "opening": "credit",
+      "amount": "500000",
+      "id": "1"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "1592",
+      "name": "Asif Hameed",
+      "nameUr": "آصف حمید",
+      "cnic": "38403-1248573-1",
+      "email": "asifhameed@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03001248573",
+      "address": "House #16, Street #2, Madina Town Sargodha",
+      "addressUr": "مکان نمبر 16، گلی نمبر 2، مدینہ ٹاؤن سرگودھا",
+      "opening": "debit",
+      "amount": "120001",
+      "id": "2"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "6241",
+      "name": "Zubair Ali",
+      "nameUr": "زبیر علی",
+      "cnic": "38403-1285034-1",
+      "email": "zubairali@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03001285034",
+      "address": "House #21, Street #14, Faisal Town Sargodha",
+      "addressUr": "مکان نمبر 21، گلی نمبر 14، فیصل ٹاؤن سرگودھا",
+      "opening": "none",
+      "amount": "10012",
+      "id": "3"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "9643",
+      "name": "Abdullah Malik",
+      "nameUr": "عبداللہ ملک",
+      "cnic": "38403-4802423-1",
+      "email": "abdullahmalik@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03004802423",
+      "address": "House #2, Street #5, Raza Garden Sargodha",
+      "addressUr": "مکان نمبر 2، گلی نمبر 5، راز گارڈن سرگودھا",
+      "opening": "credit",
+      "amount": "2300001",
+      "id": "4"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "4836",
+      "name": "Umair Ashraf",
+      "nameUr": "عمیر اشرف",
+      "cnic": "38403-5973006-7",
+      "email": "umairashraf@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03035973006",
+      "address": "House #4, Street #3, Al-Hameed Town Sargodha",
+      "addressUr": "مکان نمبر 4، گلی نمبر 3، الحمید ٹاؤن سرگودھا",
+      "opening": "credit",
+      "amount": "1200",
+      "id": "5"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "5203",
+      "name": "Khurram Iqbal",
+      "nameUr": "خرم اقبال",
+      "cnic": "38403-6707699-3",
+      "email": "khurramiqbal@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03026707699",
+      "address": "House #4, Street #1, Corporation Town Sargodha",
+      "addressUr": "مکان نمبر 4، گلی نمبر 1، کارپوریشن ٹاؤن سرگودھا",
+      "opening": "credit",
+      "amount": "1800001",
+      "id": "6"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "6924",
+      "name": "Zarar Azeem",
+      "nameUr": "ضرار عظیم",
+      "cnic": "38403-1287096-2",
+      "email": "zararazeem@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03171287096",
+      "address": "House #15, Street #5, Aziz Bhatti Town Sargodha",
+      "addressUr": "مکان نمبر 15، گلی نمبر 5، عزیز بٹی ٹاؤن سرگودھا",
+      "opening": "debit",
+      "amount": "1200",
+      "id": "7"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "0491",
+      "name": "Shahzaib Ali",
+      "nameUr": "شاہ زیب علی",
+      "cnic": "38403-9600007-1",
+      "email": "shahzaibali@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03079600007",
+      "address": "House #6, Street #2, Al-Haseeb Town Sargodha",
+      "addressUr": "مکان نمبر 6، گلی نمبر 2، الحسیب ٹاؤن سرگودھا",
+      "opening": "debit",
+      "amount": "200000",
+      "id": "8"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "9401",
+      "name": "Areeb Zaka",
+      "nameUr": "عریب ذکا",
+      "cnic": "38403-1892499-3",
+      "email": "areebzaka@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03051892499",
+      "address": "House #15, Street #3, VIP Town Sargodha",
+      "addressUr": "مکان نمبر 15، گلی نمبر 3، وی آئی پی ٹاؤن سرگودھا",
+      "opening": "none",
+      "amount": "10201",
+      "id": "9"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "5012",
+      "name": "Bilal Anwar",
+      "nameUr": "بلال انور",
+      "cnic": "38403-1290462-9",
+      "email": "bilalanwar@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03011290462",
+      "address": "House #2, Street #1, Satellite Town Sargodha",
+      "addressUr": "مکان نمبر 2، گلی نمبر 1، سیٹلائٹ ٹاؤن سرگودھا",
+      "opening": "credit",
+      "amount": "320000",
+      "id": "10"
+    },
+    {
+      "accountHead": "205012",
+      "accountCode": "5912",
+      "name": "Ahmad Shahzad",
+      "nameUr": "احمد شہزاد",
+      "cnic": "38403-8947396-1",
+      "email": "ahmadshahzad@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03008947396",
+      "address": "House #4, Street #12, Qurtuba Town Sargodha",
+      "addressUr": "مکان نمبر 4، گلی نمبر 12، قرطبہ ٹاؤن سرگودھا",
+      "opening": "debit",
+      "amount": "125000",
+      "id": "11"
+    },
+    {
+      "accountHead": "205021",
+      "accountCode": "3212",
+      "name": "Asif Raza",
+      "nameUr": "آصف رضا",
+      "cnic": "38403-1236032-3",
+      "email": "asifraza@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03011236032",
+      "address": "House #4, Street #2-A, Qurtuba Town, Bhalwal Road, Sargodha",
+      "addressUr": "مکان نمبر 4، گلی نمبر 2-A، قرطبہ ٹاؤن، بھلوال روڈ، سرگودھا",
+      "opening": "debit",
+      "amount": "100000",
+      "id": "12"
+    },
+    {
+      "accountHead": "205021",
+      "accountCode": "1204",
+      "name": "Aneeq Mughal",
+      "nameUr": "انیق مغل",
+      "cnic": "38403-1063953-1",
+      "email": "aniqmughal@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03071063953",
+      "address": "House #16, Street #2, New Satellite Town, Sargodha",
+      "addressUr": "مکان نمبر 16، گلی نمبر 2، نیو سیٹلائٹ ٹاؤن، سرگودھا",
+      "opening": "debit",
+      "amount": "50000",
+      "id": "13"
+    },
+    {
+      "accountHead": "205021",
+      "accountCode": "5223",
+      "name": "Zahid Mehmood",
+      "nameUr": "زاہد محمود",
+      "cnic": "38403-1063294-1",
+      "email": "zahidmehmood",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03331063294",
+      "address": "House #1, Street #3, Prince Garden near Fatima Jinnah Colony, Sargodha",
+      "addressUr": "مکان نمبر 1، گلی نمبر 3، پرنس گارڈن نزد فاطمہ جناح کالونی، سرگودھا",
+      "opening": "none",
+      "amount": "0",
+      "id": "14"
+    },
+    {
+      "accountHead": "205021",
+      "accountCode": "2532",
+      "name": "Khawaja Tayyab",
+      "nameUr": "خواجہ طیب",
+      "cnic": "38403-6242155-5",
+      "email": "khawajatayyab@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03046242155",
+      "address": "House #5, Street #6, Sikka Colony near Maqam-e-hayat, Sargodha",
+      "addressUr": "مکان نمبر 5، گلی نمبر 6، سکہ کالونی نزد مقام حیات، سرگودھا",
+      "opening": "credit",
+      "amount": "350000",
+      "id": "15"
+    },
+    {
+      "accountHead": "205021",
+      "accountCode": "8000",
+      "name": "Junaid Raza",
+      "nameUr": "جنید رضا",
+      "cnic": "38403-5520523-9",
+      "email": "junaidraza@gmail.com",
+      "currency": "Pakistan Rupee (PKR)",
+      "mobile": "03055520523",
+      "address": "House #8, Street #9-B, Muhafiz Town, Sargodha",
+      "addressUr": "مکان نمبر 8، گلی نمبر 9-B، محافظ ٹاؤن، سرگودھا",
+      "opening": "",
+      "amount": "",
+      "id": "16"
+    },
+    {
+      "id": "8756",
+      "accountHead": "",
+      "accountCode": "",
+      "name": "",
+      "nameUr": "",
+      "cnic": "",
+      "email": "",
+      "currency": "",
+      "mobile": "",
+      "address": "",
+      "addressUr": "",
+      "opening": "none",
+      "amount": ""
+    }
+  ],
+  "orchardcontracts": [
+    {
+      "contractDate": "2023-12-01",
+      "supplierCode": "6241",
+      "orchardCode": "124",
+      "orchardType": "Seed Orchard",
+      "contractTill": "2021-03-20",
+      "binWeight": "100",
+      "advance": "500000",
+      "area": "50",
+      "bins": "250",
+      "contractType": "1",
+      "safiPrice": "940",
+      "chantPrice": "770",
+      "remarks": "remarks 1",
+      "agreement": "agreement 1",
+      "remarksUrdu": "remarks urdu",
+      "agreementUrdu": "agreement urdu",
+      "id": "1"
+    },
+    {
+      "contractDate": "2023-12-07",
+      "supplierCode": "1592",
+      "orchardCode": "342",
+      "orchardType": "Nut Orchard",
+      "contractTill": "2024-01-04",
+      "binWeight": "20",
+      "advance": "10000",
+      "area": "10",
+      "bins": "23",
+      "contractType": "2",
+      "safiPrice": "300",
+      "chantPrice": "200",
+      "remarks": "remarks",
+      "agreement": "agreement",
+      "remarksUrdu": "remarks urdu",
+      "agreementUrdu": "agremeent urdu",
+      "id": "2"
+    },
+    {
+      "contractDate": "2023-12-20",
+      "supplierCode": "6241",
+      "orchardCode": "552",
+      "orchardType": "Seed Orchard",
+      "contractTill": "2023-12-12",
+      "binWeight": "12",
+      "advance": "3",
+      "area": "4",
+      "bins": "5",
+      "contractType": "2",
+      "safiPrice": "3",
+      "chantPrice": "-14",
+      "remarks": "re",
+      "agreement": "sa",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "3"
+    },
+    {
+      "contractDate": "",
+      "orchardType": "",
+      "contractTill": "",
+      "binWeight": "",
+      "advance": "",
+      "area": "",
+      "bins": "",
+      "contractType": "",
+      "safiPrice": "",
+      "chantPrice": "",
+      "remarks": "",
+      "agreement": "",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "4"
+    },
+    {
+      "contractDate": "",
+      "orchardType": "",
+      "contractTill": "",
+      "binWeight": "",
+      "advance": "",
+      "area": "",
+      "bins": "",
+      "contractType": "",
+      "safiPrice": "",
+      "chantPrice": "",
+      "remarks": "",
+      "agreement": "",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "5"
+    },
+    {
+      "contractDate": "",
+      "orchardType": "",
+      "contractTill": "",
+      "binWeight": "",
+      "advance": "",
+      "area": "",
+      "bins": "",
+      "contractType": "",
+      "safiPrice": "",
+      "chantPrice": "",
+      "remarks": "",
+      "agreement": "",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "6"
+    }
+  ],
+  "contractgroups": [
+    {
+      "code": "10",
+      "name": "orchard contract",
+      "description": "orchard contract agreement",
+      "id": "1"
+    },
+    {
+      "code": "11",
+      "name": "transport contract",
+      "description": "transport contract agreement",
+      "id": "2"
+    },
+    {
+      "code": "12",
+      "name": "labour contract",
+      "description": "labour contract agreement",
+      "id": "3"
+    },
+    {
+      "code": "13",
+      "name": "harvesting contract",
+      "description": "harvesting contract agreement",
+      "id": "4"
+    },
+    {
+      "code": "14",
+      "name": "container transport contract",
+      "description": "container transport contract agreement",
+      "id": "5"
+    },
+    {
+      "code": "15",
+      "name": "sale contract",
+      "description": "sale contract agreement",
+      "id": "6"
+    },
+    {
+      "code": "16",
+      "name": "sort labour contract",
+      "description": "sort labour contract agreement",
+      "id": "7"
+    }
+  ],
+  "generalcontracts": [
+    {
+      "contractDate": "2023-11-02",
+      "supplier": "Zubair Ali",
+      "type": 1,
+      "advance": "5000",
+      "remarks": "remarks 1 zubair ali orchard contract",
+      "agreement": "agreement 1 zubair ali orchard contract",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "1"
+    },
+    {
+      "contractDate": "2023-11-08",
+      "supplier": "Umar Farooq",
+      "type": 3,
+      "advance": "1500",
+      "remarks": "remarks 2",
+      "agreement": "agreement 2",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "2"
+    },
+    {
+      "contractDate": "2023-11-07",
+      "supplier": "Abdullah Malik",
+      "type": 6,
+      "advance": "10000",
+      "remarks": "remarks 3",
+      "agreement": "agreement 3",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "3"
+    },
+    {
+      "contractDate": "2023-10-29",
+      "supplier": "Asif Hameed",
+      "type": 3,
+      "advance": "1000",
+      "remarks": "remarks 4",
+      "agreement": "agreement 4",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "4"
+    },
+    {
+      "contractDate": "2023-11-16",
+      "supplier": "Umair Ashraf",
+      "type": 1,
+      "advance": "15000",
+      "remarks": "remarks 5",
+      "agreement": "agreement 5",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "5"
+    },
+    {
+      "contractDate": "",
+      "advance": "1",
+      "remarks": "2",
+      "agreement": "3",
+      "remarksUrdu": "",
+      "agreementUrdu": "",
+      "id": "6"
+    }
+  ],
+  "entrypass": [
+    {
+      "name": "sea fright",
+      "id": "1"
+    },
+    {
+      "name": "local fare",
+      "id": "2"
+    }
+  ],
+  "vendors": [
+    {
+      "name": "shoaib malik",
+      "mobile": "03001234567",
+      "id": "1"
+    },
+    {
+      "name": "asif ali",
+      "mobile": "0301567345",
+      "id": "2"
+    }
+  ],
+  "supervisor": [
+    {
+      "name": "basheer ahmad",
+      "title": "salaries payable",
+      "mobile": "03127952345",
+      "id": "1"
+    },
+    {
+      "name": "muhammad riaz",
+      "title": "salaries payable",
+      "mobile": "03005929392",
+      "id": "2"
+    },
+    {
+      "name": "ghulam rabbani",
+      "title": "salaries payable",
+      "mobile": "03410593120",
+      "id": "3"
+    },
+    {
+      "name": "tehseen afzal",
+      "title": "salaries payable",
+      "mobile": "03127952345",
+      "id": "4"
+    },
+    {
+      "name": "amir sohail",
+      "title": "salaries payable",
+      "mobile": "03112030012",
+      "id": "5"
+    },
+    {
+      "name": "ghulam abbas",
+      "title": "salaries payable",
+      "mobile": "03012949102",
+      "id": "6"
+    },
+    {
+      "name": "javaid akhtar",
+      "title": "salaries payable",
+      "mobile": "03330593912",
+      "id": "7"
+    },
+    {
+      "name": "malik amir saeed",
+      "title": "salaries payable",
+      "mobile": "03105984102",
+      "id": "8"
+    },
+    {
+      "name": "tanveer asif",
+      "title": "salaries payable",
+      "mobile": "03275921031",
+      "id": "9"
+    },
+    {
+      "name": "muhammad arif",
+      "title": "salaries payable",
+      "mobile": "03025828183",
+      "id": "10"
+    }
+  ],
+  "products": [
+    {
+      "name": "4 Ply Sheet",
+      "brand": "zamzam pack",
+      "category": "wooden crate sheet",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 500,
+      "stockposition": 0,
+      "id": "1"
+    },
+    {
+      "name": "3 Ply Sheet Store",
+      "brand": "zamzam pack",
+      "category": "wooden crate sheet",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 350,
+      "stockposition": 0,
+      "id": "2"
+    },
+    {
+      "category": "wooden crate",
+      "name": "13kg wooden crate",
+      "unit": "piece",
+      "brand": "rafique array wala",
+      "openingQuantity": "",
+      "openingPrice": "",
+      "price": 1200,
+      "expires": "2024-11-25",
+      "id": "3"
+    },
+    {
+      "name": "13kg store wooden crate",
+      "brand": "rafique array wala",
+      "category": "wooden crate",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 1600,
+      "stockposition": 0,
+      "id": "4"
+    },
+    {
+      "name": "13kg top",
+      "brand": "express dubai",
+      "category": "import carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 390,
+      "stockposition": 0,
+      "id": "5"
+    },
+    {
+      "name": "13kg bottom",
+      "brand": "express dubai",
+      "category": "import carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 390,
+      "stockposition": 0,
+      "id": "6"
+    },
+    {
+      "name": "10kg top",
+      "brand": "express dubai",
+      "category": "import carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 320,
+      "stockposition": 0,
+      "id": "7"
+    },
+    {
+      "name": "10kg bottom",
+      "brand": "express dubai",
+      "category": "import carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 320,
+      "stockposition": 0,
+      "id": "8"
+    },
+    {
+      "name": "7kg top",
+      "brand": "express dubai",
+      "category": "import carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 270,
+      "stockposition": 0,
+      "id": "9"
+    },
+    {
+      "name": "7kg bottom",
+      "brand": "express dubai",
+      "category": "import carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 270,
+      "stockposition": 0,
+      "id": "10"
+    },
+    {
+      "name": "big-b",
+      "brand": "pak star packages",
+      "category": "local carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "boxes",
+      "price": 550,
+      "stockposition": 0,
+      "id": "11"
+    },
+    {
+      "name": "10kg top",
+      "brand": "ch packages",
+      "category": "local carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "boxes",
+      "price": 450,
+      "stockposition": 0,
+      "id": "12"
+    },
+    {
+      "name": "10kg bottom",
+      "brand": "ch packages",
+      "category": "local carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "boxes",
+      "price": 450,
+      "stockposition": 0,
+      "id": "13"
+    },
+    {
+      "name": "10kg top",
+      "brand": "roshan packages",
+      "category": "local carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "boxes",
+      "price": 480,
+      "stockposition": 0,
+      "id": "14"
+    },
+    {
+      "name": "10kg bottom",
+      "brand": "roshan packages",
+      "category": "local carton",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "boxes",
+      "price": 480,
+      "stockposition": 0,
+      "id": "15"
+    },
+    {
+      "name": "stickers Al Rafique",
+      "brand": "ghori printing press",
+      "category": "stickers",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "sheet",
+      "price": 250,
+      "stockposition": 0,
+      "id": "16"
+    },
+    {
+      "name": "mra export stickers",
+      "brand": "ghori printing press",
+      "category": "stickers",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 270,
+      "stockposition": 0,
+      "id": "17"
+    },
+    {
+      "name": "shn export stickers",
+      "brand": "ghori printing press",
+      "category": "stickers",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 270,
+      "stockposition": 0,
+      "id": "18"
+    },
+    {
+      "name": "mal export stickers",
+      "brand": "ghori printing press",
+      "category": "stickers",
+      "description": "description...",
+      "expires": "2024-11-25",
+      "unit": "piece",
+      "price": 270,
+      "stockposition": 0,
+      "id": "19"
+    },
+    {
+      "category": "wooden crate",
+      "name": "dsgfdsf",
+      "unit": "boxes",
+      "brand": "ghori printing press",
+      "openingQuantity": "3453",
+      "openingPrice": "21",
+      "minStockAlert": "123",
+      "price": "3242",
+      "expires": "1111-01-01",
+      "piecesperpack": "24",
+      "id": "20"
+    }
+  ],
+  "categories": [
+    {
+      "name": "import carton",
+      "id": "1"
+    },
+    {
+      "name": "local carton",
+      "id": "2"
+    },
+    {
+      "name": "wooden crate",
+      "id": "3"
+    },
+    {
+      "name": "stickers",
+      "id": "4"
+    },
+    {
+      "name": "carton sheet",
+      "id": "5"
+    },
+    {
+      "name": "wooden crate sheet",
+      "id": "6"
+    },
+    {
+      "name": "diesel",
+      "id": "7"
+    },
+    {
+      "name": "export customer labels",
+      "id": "8"
+    },
+    {
+      "name": "general stock",
+      "id": "9"
+    },
+    {
+      "name": "orchard related items",
+      "id": "10"
+    },
+    {
+      "name": "export related products",
+      "id": "11"
+    }
+  ],
+  "brands": [
+    {
+      "name": "express dubai",
+      "type": "foreign",
+      "id": "1"
+    },
+    {
+      "name": "rafique array wala",
+      "type": "local",
+      "id": "2"
+    },
+    {
+      "name": "ghori printing press",
+      "type": "local",
+      "id": "3"
+    },
+    {
+      "name": "pak star packages",
+      "type": "local",
+      "id": "4"
+    },
+    {
+      "name": "zamzam pack",
+      "type": "foreign",
+      "id": "5"
+    },
+    {
+      "name": "shafique petrolium",
+      "type": "local",
+      "id": "6"
+    },
+    {
+      "name": "roshan package",
+      "type": "foreign",
+      "id": "7"
+    },
+    {
+      "name": "ch package",
+      "type": "local",
+      "id": "8"
+    },
+    {
+      "name": "saeed raco packages",
+      "type": "local",
+      "id": "9"
+    },
+    {
+      "name": "AR package",
+      "type": "local",
+      "id": "10"
+    }
+  ],
+  "units": [
+    {
+      "name": "boxes",
+      "id": "1"
+    },
+    {
+      "name": "pieces",
+      "id": "2"
+    }
+  ],
+  "transporters": [
+    {
+      "name": "asim azhar",
+      "mobile": "03129752345",
+      "id": "1"
+    },
+    {
+      "name": "ibrahim aziz",
+      "mobile": "03118637024",
+      "id": "2"
+    },
+    {
+      "name": "umar khan",
+      "mobile": "03412836097",
+      "id": "3"
+    },
+    {
+      "name": "amir baloch",
+      "mobile": "03179575240",
+      "id": "4"
+    },
+    {
+      "name": "bilal raza",
+      "mobile": "03451020405",
+      "id": "5"
+    }
+  ],
+  "vendorstockinreport": [
+    {
+      "date": "2023-12-03",
+      "invoice": 1001,
+      "entrypass": 10240,
+      "product": "product 1",
+      "quantity": 5,
+      "price": 500,
+      "amount": 2500,
+      "id": "1"
+    },
+    {
+      "date": "2023-12-04",
+      "invoice": 1002,
+      "entrypass": 10241,
+      "product": "product 2",
+      "quantity": 5,
+      "price": 300,
+      "amount": 1500,
+      "id": "2"
+    }
+  ],
+  "fuelinglogreport": [
+    {
+      "date": "2023-12-03",
+      "fuelConsumer": "office car 33",
+      "transporter": "8362 z usman 241121",
+      "vehicleNumber": "8262-z",
+      "driver": "m usman",
+      "meterReading": 0,
+      "quantity": 34,
+      "id": "1"
+    },
+    {
+      "date": "2023-12-14",
+      "fuelConsumer": "office car 22",
+      "transporter": "5125 a azam 61234",
+      "vehicleNumber": "5125-a",
+      "driver": "m azam",
+      "meterReading": 0,
+      "quantity": 39,
+      "id": "2"
+    }
+  ],
+  "consolidatedvehiclefuelreport": [
+    {
+      "transporter": "8474 fdy habib nawaz 241121",
+      "firstReading(KM)": 0,
+      "finalReading(KM)": 0,
+      "milage": 0,
+      "totalFuel": 1048.1,
+      "average(KM/Litre)": 0,
+      "id": "1"
+    },
+    {
+      "transporter": "1698 fds aqar ahmad 241121",
+      "firstReading(KM)": 0,
+      "finalReading(KM)": 0,
+      "milage": 0,
+      "totalFuel": 1593.6,
+      "average(KM/Litre)": 0,
+      "id": "2"
+    },
+    {
+      "transporter": "471 tkc tayyab muhammad 241121",
+      "firstReading(KM)": 931040,
+      "finalReading(KM)": 939019,
+      "milage": 7979,
+      "totalFuel": 1695.6,
+      "average(KM/Litre)": 4.7057,
+      "id": "3"
+    }
+  ],
+  "dailyproductionreports": [
+    {
+      "date": "2021-11-25",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17031",
+      "weight": "10.00",
+      "pieceperpack": "42",
+      "boxQuantity": "30.00",
+      "id": "1"
+    },
+    {
+      "date": "2021-11-25",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17031",
+      "weight": "10.00",
+      "pieceperpack": "48",
+      "boxQuantity": "43.00",
+      "id": "2"
+    },
+    {
+      "date": "2021-11-25",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17031",
+      "weight": "10.00",
+      "pieceperpack": "54",
+      "boxQuantity": "228.00",
+      "id": "3"
+    },
+    {
+      "date": "2021-11-25",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17031",
+      "weight": "10.00",
+      "pieceperpack": "60",
+      "boxQuantity": "273.00",
+      "id": "4"
+    },
+    {
+      "date": "2021-11-26",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17032",
+      "weight": "10.00",
+      "pieceperpack": "54",
+      "boxQuantity": "205.00",
+      "id": "5"
+    },
+    {
+      "date": "2021-11-26",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17032",
+      "weight": "10.00",
+      "pieceperpack": "80",
+      "boxQuantity": "353.00",
+      "id": "6"
+    },
+    {
+      "date": "2021-11-26",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17032",
+      "weight": "13.00",
+      "pieceperpack": "90",
+      "boxQuantity": "184.00",
+      "id": "7"
+    },
+    {
+      "date": "2021-11-26",
+      "company": "",
+      "brand": "ARE - CPL LOC",
+      "batch": "17033",
+      "weight": "13.00",
+      "pieceperpack": "120",
+      "boxQuantity": "241.00",
+      "id": "8"
+    }
+  ],
+  "currentstockpositionreport": [
+    {
+      "date": "2021-05-13",
+      "brand": "ARE - CPL LOC",
+      "weight": "10.00",
+      "pieceperpack": "36",
+      "opening": "0.00",
+      "production": "813.00",
+      "sale": "813.00",
+      "balance": "0",
+      "id": "1"
+    },
+    {
+      "date": "2021-05-15",
+      "brand": "ARE - CPL LOC",
+      "weight": "10.00",
+      "pieceperpack": "42",
+      "opening": "0.00",
+      "production": "19817.00",
+      "sale": "19817.00",
+      "balance": "0",
+      "id": "2"
+    },
+    {
+      "date": "2021-05-19",
+      "brand": "ARE - CPL LOC",
+      "weight": "10.00",
+      "pieceperpack": "48",
+      "opening": "0.00",
+      "production": "38913.00",
+      "sale": "38880.00",
+      "balance": "33.00",
+      "id": "3"
+    },
+    {
+      "date": "2021-05-23",
+      "brand": "ARE - CPL LOC",
+      "weight": "13.00",
+      "pieceperpack": "64",
+      "opening": "0.00",
+      "production": "10.00",
+      "sale": "10.00",
+      "balance": "0",
+      "id": "4"
+    },
+    {
+      "date": "2021-06-01",
+      "brand": "ARE - CPL LOC",
+      "weight": "13.00",
+      "pieceperpack": "80",
+      "opening": "0.00",
+      "production": "18416.00",
+      "sale": "18416.00",
+      "balance": "0",
+      "id": "5"
+    },
+    {
+      "date": "2021-06-11",
+      "brand": "5 Star",
+      "weight": "13.00",
+      "pieceperpack": "48",
+      "opening": "0.00",
+      "production": "9413.00",
+      "sale": "9413.00",
+      "balance": "0",
+      "id": "6"
+    },
+    {
+      "date": "2021-06-18",
+      "brand": "5 Star",
+      "weight": "13.00",
+      "pieceperpack": "80",
+      "opening": "0.00",
+      "production": "112302.00",
+      "sale": "112302.00",
+      "balance": "0",
+      "id": "7"
+    }
+  ],
+  "currentstockpositionreportdaywise": [
+    {
+      "brand": "Rusk 4Kg",
+      "weight": "4.00",
+      "pieces": "24",
+      "batch": "17012",
+      "store": "A-R-E",
+      "room": "",
+      "rack": "",
+      "position": "Front",
+      "quantity": "3.00",
+      "productionDate": "2021-01-12",
+      "daysold": "337",
+      "id": "1"
+    },
+    {
+      "brand": "Rusk 4Kg",
+      "weight": "4.00",
+      "pieces": "26",
+      "batch": "17012",
+      "store": "A-R-E",
+      "room": "",
+      "rack": "",
+      "position": "Front",
+      "quantity": "3.00",
+      "productionDate": "2021-01-12",
+      "daysold": "337",
+      "id": "2"
+    },
+    {
+      "brand": "Khan Marka",
+      "weight": "13.00",
+      "pieces": "56",
+      "batch": "11/02/AWAN",
+      "store": "A-R-E",
+      "room": "",
+      "rack": "",
+      "position": "Front",
+      "quantity": "83.00",
+      "productionDate": "2021-03-24",
+      "daysold": "265",
+      "id": "3"
+    },
+    {
+      "brand": "Khan Marka",
+      "weight": "13.00",
+      "pieces": "110",
+      "batch": "11/02/AWAN",
+      "store": "A-R-E",
+      "room": "",
+      "rack": "",
+      "position": "Front",
+      "quantity": "324.00",
+      "productionDate": "2021-04-11",
+      "daysold": "263",
+      "id": "4"
+    },
+    {
+      "brand": "Khan Marka",
+      "weight": "13.00",
+      "pieces": "110",
+      "batch": "11/02/AWAN",
+      "store": "A-R-E",
+      "room": "",
+      "rack": "",
+      "position": "Front",
+      "quantity": "197.00",
+      "productionDate": "2021-04-15",
+      "daysold": "264",
+      "id": "5"
+    }
+  ],
+  "stockoutreport": [
+    {
+      "sale": "local",
+      "loadingNumber": "401",
+      "date": "2021-03-21",
+      "customerId": "2",
+      "customer": "Sheikh Imtiaz",
+      "brand": "5 Star",
+      "daysOld": "340",
+      "weight": "13.00",
+      "pieces": "48",
+      "quantity": "2",
+      "id": "1"
+    },
+    {
+      "sale": "local",
+      "loadingNumber": "401",
+      "date": "2021-03-21",
+      "customerId": "2",
+      "customer": "Sheikh Imtiaz",
+      "brand": "5 Star",
+      "daysOld": "342",
+      "weight": "13.00",
+      "pieces": "56",
+      "quantity": "10.00",
+      "id": "2"
+    },
+    {
+      "sale": "local",
+      "loadingNumber": "401",
+      "date": "2021-03-21",
+      "customerId": "2",
+      "customer": "Sheikh Imtiaz",
+      "brand": "5 Star",
+      "daysOld": "342",
+      "weight": "13.00",
+      "pieces": "110",
+      "quantity": "306.00",
+      "id": "3"
+    },
+    {
+      "sale": "export",
+      "loadingNumber": "1",
+      "date": "2021-03-24",
+      "customerId": "3",
+      "customer": "Umar Akmal",
+      "brand": "ARE - CPL LOC",
+      "daysOld": "339",
+      "weight": "10.00",
+      "pieces": "42",
+      "quantity": "81.00",
+      "id": "4"
+    },
+    {
+      "sale": "export",
+      "loadingNumber": "1",
+      "date": "2021-03-24",
+      "customerId": "3",
+      "customer": "Umar Akmal",
+      "brand": "ARE - CPL LOC",
+      "daysOld": "339",
+      "weight": "10.00",
+      "pieces": "66",
+      "quantity": "599.00",
+      "id": "5"
+    },
+    {
+      "sale": "FOC",
+      "loadingNumber": "1",
+      "date": "2021-07-12",
+      "customerId": "1",
+      "customer": "Amir Khan",
+      "brand": "5 Star Gift Pack",
+      "daysOld": "330",
+      "weight": "13.00",
+      "pieces": "80",
+      "quantity": "5.00",
+      "id": "6"
+    }
+  ],
+  "productions": [
+    {
+      "date": "2023-11-08",
+      "brandType": "foreign",
+      "brandName": "rafique array wala",
+      "packingWeight": "5.00",
+      "grossWeight": "5.00",
+      "netWeight": "4.50",
+      "piece": 30,
+      "batch": "54",
+      "store": "A-R-E",
+      "room": "3",
+      "rack": "22",
+      "position": "Front",
+      "supplier": "Asif Hameed",
+      "supervisor": "muhammad riaz",
+      "id": "1"
+    },
+    {
+      "date": "2023-11-13",
+      "brandType": "local",
+      "brandName": "rafique array wala",
+      "packingWeight": "5.00",
+      "grossWeight": "5.00",
+      "netWeight": "4.50",
+      "piece": 30,
+      "batch": "3",
+      "boxQuantity": "4",
+      "store": "A-R-E",
+      "room": "5",
+      "rack": "6",
+      "position": "Middle",
+      "supplier": "Abdullah Malik",
+      "supervisor": "muhammad riaz",
+      "id": "2"
+    },
+    {
+      "date": "2023-11-13",
+      "brandType": "local",
+      "brandName": "rafique array wala",
+      "packingWeight": "10.00",
+      "grossWeight": "10.80",
+      "netWeight": "10.00",
+      "piece": 54,
+      "batch": "1",
+      "boxQuantity": "2",
+      "store": "M-C-S",
+      "room": "3",
+      "rack": "1",
+      "position": "Middle",
+      "supplier": "Abdullah Malik",
+      "supervisor": "ghulam rabbani",
+      "id": "3"
+    },
+    {
+      "date": "2023-11-06",
+      "brandType": "local",
+      "brandName": "ghori printing press",
+      "packingWeight": "7.00",
+      "grossWeight": "7.30",
+      "netWeight": "6.80",
+      "piece": 28,
+      "batch": "5",
+      "boxQuantity": "1",
+      "store": "M-C-S",
+      "room": "1",
+      "rack": "4",
+      "position": "Middle",
+      "supplier": "Bilal Anwar",
+      "supervisor": "amir sohail",
+      "id": "4"
+    }
+  ],
+  "productionslist": [
+    {
+      "date": "2023-11-13",
+      "brandName": "rafique array wala",
+      "packingWeight": "10.00",
+      "piece": 54,
+      "batch": "1",
+      "boxQuantity": "2",
+      "store": "M-C-S",
+      "room": "3",
+      "rack": "1",
+      "position": "Middle",
+      "id": "1"
+    },
+    {
+      "date": "2023-11-06",
+      "brandName": "ghori printing press",
+      "packingWeight": "7.00",
+      "piece": 28,
+      "batch": "5",
+      "boxQuantity": "1",
+      "store": "",
+      "room": "1",
+      "rack": "4",
+      "position": "Middle",
+      "id": "2"
+    }
+  ],
+  "localloadings": [
+    {
+      "date": "2023-11-07",
+      "customerId": 1,
+      "supervisorId": 4,
+      "vehicleNumber": "ADR123",
+      "containerNumber": "963",
+      "driverName": "Omar Raza",
+      "driverCnic": "38403-1203123-1",
+      "plugIn": "812",
+      "mobile": "031295820462",
+      "builtyNumber": "910",
+      "loadingSealNumber": "3910",
+      "inspectionSealNumber": "8692",
+      "payload": "9301",
+      "scaleWeight": "40",
+      "outTime": "12:04",
+      "port": "Cebu - Philippines",
+      "remarks": "remarks 1 done",
+      "brandType": "local",
+      "brandName": "express dubai",
+      "weight": "4.00",
+      "batchNumber": 2,
+      "piece": 42,
+      "quantity": "500",
+      "store": "A-R-E",
+      "room": "5",
+      "rack": "6",
+      "position": "Middle",
+      "productionDate": "2023-11-13",
+      "netWeight": "4.50",
+      "grossWeight": "5.00",
+      "id": "1"
+    },
+    {
+      "date": "2023-11-22",
+      "customerId": 3,
+      "supervisorId": 3,
+      "vehicleNumber": "EQ123",
+      "containerNumber": "932",
+      "driverName": "Khan Alam",
+      "driverCnic": "38403-1204012-1",
+      "plugIn": "9591",
+      "mobile": "0300179296209",
+      "builtyNumber": "0582",
+      "loadingSealNumber": "5823",
+      "inspectionSealNumber": "4291",
+      "payload": "4182",
+      "scaleWeight": "59",
+      "outTime": "17:09",
+      "port": "Davao - Philippines",
+      "remarks": "remarks 2 done",
+      "brandType": "local",
+      "brandName": "shafique petrolium",
+      "weight": "4.00",
+      "batchNumber": 4,
+      "piece": 54,
+      "quantity": "1200",
+      "store": "M-C-S",
+      "room": "1",
+      "rack": "4",
+      "position": "Middle",
+      "productionDate": "2023-11-06",
+      "netWeight": "6.80",
+      "grossWeight": "7.30",
+      "id": "2"
+    }
+  ],
+  "pendinglocalsales": [
+    {
+      "loading#": 2103,
+      "date": "2021-03-13",
+      "customerName": "Asad Umar",
+      "vehicle#": "LER123",
+      "builty#": "A123",
+      "driver": "Asim Raza",
+      "driverCnic": "38403-1205124-1",
+      "boxes": "312",
+      "id": "1"
+    },
+    {
+      "loading#": 2104,
+      "date": "2021-04-24",
+      "customerName": "Amir Khan",
+      "vehicle#": "ZXT295",
+      "builty#": "41A2",
+      "driver": "Umar Akmal",
+      "driverCnic": "38403-51994301-5",
+      "boxes": "391",
+      "id": "2"
+    }
+  ],
+  "localsalesregister": [
+    {
+      "loading#": 351,
+      "date": "2022-07-16",
+      "customerId": 2,
+      "customerName": "Noman Khan",
+      "vehicle#": "RQW312",
+      "builty#": "5Q12",
+      "driver": "Zain Irshad",
+      "discount": "50%",
+      "boxes": "201",
+      "pending": "130",
+      "id": "1"
+    },
+    {
+      "loading#": 352,
+      "date": "2022-10-26",
+      "customerId": 5,
+      "customerName": "Daniyal Khan",
+      "vehicle#": "LYT491",
+      "builty#": "AR621",
+      "driver": "Umar Khan",
+      "discount": "35%",
+      "boxes": "330",
+      "pending": "105",
+      "id": "2"
+    }
+  ]
+}
